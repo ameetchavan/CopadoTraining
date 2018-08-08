@@ -206,6 +206,19 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Training_Text__c</fullName>
+        <description>Test</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Test</inlineHelpText>
+        <label>Training Text</label>
+        <length>50</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Type</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackTrending>false</trackTrending>
