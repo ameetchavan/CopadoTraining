@@ -247,6 +247,10 @@
             <field>00Nf200000CoHk0</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00Nf200000DB6rx</field>
+            <label>Training Text</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -286,6 +290,7 @@
             <field>00Nf200000CoHjy</field>
             <field>00Nf200000CoHjz</field>
             <field>00Nf200000CoHk0</field>
+            <field>00Nf200000DB6rx</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -461,6 +466,10 @@
             <field>00Nf200000CoHk0</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00Nf200000DB6rx</field>
+            <label>Training Text</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -500,6 +509,7 @@
             <field>00Nf200000CoHjy</field>
             <field>00Nf200000CoHjz</field>
             <field>00Nf200000CoHk0</field>
+            <field>00Nf200000DB6rx</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -679,6 +689,10 @@
             <field>00Nf200000CoHk0</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00Nf200000DB6rx</field>
+            <label>Training Text</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -719,6 +733,7 @@
             <field>00Nf200000CoHjy</field>
             <field>00Nf200000CoHjz</field>
             <field>00Nf200000CoHk0</field>
+            <field>00Nf200000DB6rx</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -894,6 +909,10 @@
             <field>00Nf200000CoHk0</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00Nf200000DB6rx</field>
+            <label>Training Text</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -933,6 +952,7 @@
             <field>00Nf200000CoHjy</field>
             <field>00Nf200000CoHjz</field>
             <field>00Nf200000CoHk0</field>
+            <field>00Nf200000DB6rx</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1112,6 +1132,10 @@
             <field>00Nf200000CoHk0</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00Nf200000DB6rx</field>
+            <label>Training Text</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -1152,6 +1176,7 @@
             <field>00Nf200000CoHjy</field>
             <field>00Nf200000CoHjz</field>
             <field>00Nf200000CoHk0</field>
+            <field>00Nf200000DB6rx</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1327,6 +1352,10 @@
             <field>00Nf200000CoHk0</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00Nf200000DB6rx</field>
+            <label>Training Text</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -1366,6 +1395,7 @@
             <field>00Nf200000CoHjy</field>
             <field>00Nf200000CoHjz</field>
             <field>00Nf200000CoHk0</field>
+            <field>00Nf200000DB6rx</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1541,6 +1571,10 @@
             <field>00Nf200000CoHk0</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00Nf200000DB6rx</field>
+            <label>Training Text</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -1580,6 +1614,7 @@
             <field>00Nf200000CoHjy</field>
             <field>00Nf200000CoHjz</field>
             <field>00Nf200000CoHk0</field>
+            <field>00Nf200000DB6rx</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1755,6 +1790,10 @@
             <field>00Nf200000CoHk0</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00Nf200000DB6rx</field>
+            <label>Training Text</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -1794,6 +1833,7 @@
             <field>00Nf200000CoHjy</field>
             <field>00Nf200000CoHjz</field>
             <field>00Nf200000CoHk0</field>
+            <field>00Nf200000DB6rx</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1973,6 +2013,10 @@
             <field>00Nf200000CoHk0</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00Nf200000DB6rx</field>
+            <label>Training Text</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -2013,6 +2057,7 @@
             <field>00Nf200000CoHjy</field>
             <field>00Nf200000CoHjz</field>
             <field>00Nf200000CoHk0</field>
+            <field>00Nf200000DB6rx</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -2188,6 +2233,10 @@
             <field>00Nf200000CoHk0</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00Nf200000DB6rx</field>
+            <label>Training Text</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -2227,6 +2276,7 @@
             <field>00Nf200000CoHjy</field>
             <field>00Nf200000CoHjz</field>
             <field>00Nf200000CoHk0</field>
+            <field>00Nf200000DB6rx</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -2402,6 +2452,10 @@
             <field>00Nf200000CoHk0</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00Nf200000DB6rx</field>
+            <label>Training Text</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -2441,6 +2495,7 @@
             <field>00Nf200000CoHjy</field>
             <field>00Nf200000CoHjz</field>
             <field>00Nf200000CoHk0</field>
+            <field>00Nf200000DB6rx</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -2616,6 +2671,10 @@
             <field>00Nf200000CoHk0</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00Nf200000DB6rx</field>
+            <label>Training Text</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -2655,6 +2714,7 @@
             <field>00Nf200000CoHjy</field>
             <field>00Nf200000CoHjz</field>
             <field>00Nf200000CoHk0</field>
+            <field>00Nf200000DB6rx</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
