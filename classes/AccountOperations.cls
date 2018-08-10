@@ -14,4 +14,12 @@ public class AccountOperations {
     
     }
 
+    public static Account setDefaultWebsite(Account  a)
+    {
+        if(a.Description == 'Default Description')
+        {
+        a.website ='www.google.com';
+        }
+        return a; 
+    }
 }
