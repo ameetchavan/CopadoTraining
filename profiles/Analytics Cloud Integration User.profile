@@ -1800,6 +1800,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>CampaignInfluence2</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>EnableCommunityAppLauncher</name>
     </userPermissions>
     <userPermissions>
